@@ -2,7 +2,7 @@
 
 This repository serves as the collection-point, ideation hub, and process behind the [InnerSource Commons'](http://innersourcecommons.org) InnerSource Patterns--a set of proven and reviewed solutions to InnerSource problems. These patterns illustrate beneficial activities and behaviors found in [organizations who apply InnerSource methodologies](http://innersourcecommons.org/getting-started/). See below the list for more on what a pattern is, how to use them in your organization, and how to get involved.
 
-# What are they?
+# What are Patterns?
 
 Patterns are a way of describing a repeatable, proven solution to a problem with a context. They follow a simple form that helps people wanting to implement the solution to understand the constraints on the problem, the forces that must be balanced and the resulting context (the situation you are left with after the solution is applied). In inner sourcing, patterns can provide a way for the InnerSource Commons participants to concisely share information with each other, improving the practice of inner sourcing. Each of the patterns are divided into Title, Problem Statement, Context, Forces, and Solutions as their main sections.
 
@@ -11,26 +11,48 @@ Patterns are a way of describing a repeatable, proven solution to a problem with
 * [Pattern Template File](meta/pattern-template.md) - View a skeleton inner source pattern to get an idea on what goes into a new pattern!
 * [Introduction to InnerSource Patterns (2016 Fall Summit presentation)](https://drive.google.com/open?id=0B7_9iQb93uBQbnlkdHNuUGhpTXc) - *Tim Yao and Padma Sudarsan* (PDF). Detailed pattern background and examples -- Get a detailed understanding of why and how to interact with our patterns. Also see the [Introduction to InnerSource Patterns (2017 Fall Summit)](https://drive.google.com/open?id=0B7_9iQb93uBQWmYwMFpyaGh4OFU) *Tim Yao and Bob Hanmer* (PDF).
 
-# How can you use them?
+## How can you use them?
 
 Patterns must be used in a thoughtful manner. They cannot be blindly applied. In most cases, you will need to adapt the given solution to your own situation; but the information given in the pattern, defining the context (immovable constraints) and forces (constraints that can be changed and balanced against each other), should help you do this. Note that you will also need to determine if there are additional constraints (company context and company forces) that apply to your particular company/organization that must be added to the pattern (as a kind of filter). These additional constraints may require additional solution steps to be applied.
 
 The pattern form is useful for describing proven patterns but it can also be used for *brainstorming solutions* where patterns are not yet established, since the form gives a structured way for thinking about a problem. You could also create a *donut pattern* (filling in the problem, context, forces and resulting context fields but leaving the solution blank) as a way of asking the InnerSource Commons community for help (to find a proven solution or to brainstorm things to try).
 
 
-# Patterns List
+# Pattern Collection
+We maintain a collection of all known (to us) patterns. They are grouped into five stages of maturity:
 
-The below lists all known patterns. They are grouped into four stages of maturity.
+## Reviewed
+Patterns at the Reviewed stage of maturity have been proven to make an impact and been reviewed in great detail.
 
-[Go here](patterns/)
+- [Take me to Reviewed Patterns](patterns/?id=reviewed)
+
+## Reviewed Ideas
+Patterns at the Reviewed Idea stage of maturity have been reviewed but not yet proven with a real use case.
+
+- [Take me to Reviewed Ideas](patterns/?id=reviewed-ideas)
+
+## Drafts
+Patterns at the Drafts stage of maturity have been proven to work but not yet been reviewed.
+
+- [Take me to the Drafts](patterns/?id=drafts)
+
+## Ideas
+Patterns at the Ideas stage of maturity have not yet been proven but have been brainstormed..
+
+- [Take me to Ideas](patterns/?id=ideas)
+
+## Donuts
+Patterns at the Donuts stage of maturity are patterns in need of a solution.
+
+- [Take me to Donuts](patterns/?id=donuts)
 
 # How to Contribute?
-
-[See our CONTRIBUTING.md for details on getting involved](CONTRIBUTING.md)
 
 We encourage beginners seeking answers to jump in by creating ''donuts'' (problems without solutions). We encourage experts to pad their experience - these are hoped to become part of a book one day. Anyone can offer reviews and comments for [in-progress patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns/pulls). 
 
 We work together via Github, Webex, Slack, etc. Do not hesitate to join the [#innersourcecommons](https://isc-inviter.herokuapp.com/) or #innersource-patterns slack channels and ask to be included in the [patterns meetings](/meta/meetings.md) (there is an email list).
+
+[See our CONTRIBUTING.md for details on getting involved](CONTRIBUTING.md)
 
 
 # Pattern Meta Info

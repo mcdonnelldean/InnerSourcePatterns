@@ -1,8 +1,8 @@
 # Patterns
 The below lists all known patterns. They are grouped into four stages of maturity.
 
-## Reviewed Patterns 
-(proven and reviewed)
+## Reviewed
+Proven to make an impact and been reviewed in great detail.
 
 * [30 Day Warranty](30-day-warranty.md) - *a pattern for getting a reluctant code-owning team to accept code submissions from outside their team.*
 * [Common Requirements](common-requirements.md) - *Common code in a shared repository isn't meeting the needs of all the project-teams that want to use it; this is solved through requirements alignment and refactoring.*
@@ -16,14 +16,14 @@ The below lists all known patterns. They are grouped into four stages of maturit
 possible to either deploy the same service in independent environments with separate escalation chains in the event of service downtime or factor a lot of shared code out into one library and collaborate on that.*
 * [Trusted Committer](project-roles/trusted-committer.md) - *Many inner-source projects will find themselves in a situation where they consistently receive feedback, features, and bug-fixes from contributors. In these situations project maintainers seek ways to recognize and reward the work of the contributor above and beyond single contributions.*
 
-## Reviewed Pattern Ideas 
-(not yet proven but reviewed)
+## Reviewed Ideas 
+Have been reviewed but not yet proven with a real use case.
 
 * [Modular Code](modular-code.md) - *Management does not want to spend the extra resources needed to develop modular components and make them available in a visible repository for others to use.*
 * [Improve Findability](improve-findability.md) - *People can't find the internally developed solutions that they need due to poor naming conventions. This causes frustration in finding inner source solutions and a reduction in code reuse.*
 
-## Pattern Drafts 
-(proven, not yet fully reviewed)
+## Drafts 
+Have been proven to work but not yet been reviewed.
 
 * [Assisted Compliance](https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/74) - *Helping repo owners be compliant by writing their CONTRIBUTING.md for them as a pull request.*
 * [Cross-Team Project Valuation](crossteam-project-valuation.md) - *It's hard to sell the value of cross-team, inner sourced projects that don't provide a direct impact on company revenue. Here's a data-driven way to represent your project that both articulates its value and amplifies it.*
@@ -36,8 +36,8 @@ possible to either deploy the same service in independent environments with sepa
 * [Start as Experiment](start-as-experiment.md) - *An inner source initiative is considered but not started, because management is unsure about its outcome and therefore unwilling to commit to the investment.*
 * [Include Product Owners](https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/71) - *Key Performance Indicators (KPIs) for Product Owners are primarily product focused, and don't consider areas such as collaborative development. This results in a lower level of engagement with inner source projects.*
 
-## Pattern Ideas 
-(not yet proven; brainstormed)
+## Ideas 
+Have not yet been proven but have been brainstormed.
 
 * [Don't Bother Looking](https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/60)
 * [Junkyard Styled Inner Sourcing](https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/61)
@@ -46,8 +46,8 @@ possible to either deploy the same service in independent environments with sepa
 * [Change the Developers Mindset](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki/Pattern:-change-the-developers-mindset)
 * [Share Your Code to Get More Done - Likely Contributors Variant](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki/Pattern:-Share-Your-Code-to-Get-More-Done---Likely-Contributors-Variant)
 
-## Pattern Donuts 
-(needing a solution)
+## Donuts 
+Behaviors in need of a solution.
 
 * [Donut 3: How to Defeat the Hierarchical Constraints](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki/Donut-3%3A-how-to-defeat-the-hierarchical-constraints)
 * [Donut 5: Project Management Time Pressures](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki/Donut-5:-project-management-time-pressures)
