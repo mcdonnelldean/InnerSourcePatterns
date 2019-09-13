@@ -1,0 +1,28 @@
+:root {
+  --accel-secondary-color: #86AC85;
+  --sidebar-nav-link-border-color--active: var(--accel-secondary-color);
+  --sidebar-nav-link-color--active: var(--accel-secondary-color);
+  --sidebar-nav-link-color--hover: var(--accel-secondary-color);
+}
+
+/* custom list numbers */
+ol {
+  list-style: none;
+  counter-reset: li;
+}
+
+ol > li {
+  counter-increment: li
+}
+
+ol > li::before {
+  content: counter(li) ".";
+  font-weight: bold;
+  float: left;
+  width: 1.5em;
+  margin-left: -1em
+}
+
+.github-corner svg {
+  fill: var(--accel-secondary-color);
+}
